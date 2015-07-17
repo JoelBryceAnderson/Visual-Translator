@@ -1,0 +1,2 @@
+include ':app', ':translate-api'
+include ':libraries:tess-two'
