@@ -2,7 +2,7 @@
 
 Privacy Policy
 
-Your privacy is important to Guangzhou Jiubang Digital Technology Co., Ltd and we are committed to protecting your privacy. So we’ve developed a Privacy Policy. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
+Your privacy is important to me and I am committed to protecting your privacy. Please take a moment to familiarize yourself with my privacy practices and let me know if you have any questions.
 
 
 PERSONAL INFORMATION
@@ -17,16 +17,14 @@ In the following circumstances, we may disclose your personal information accord
 
 NON-PERSONAL INFORMATION
 Non-personal information is data in a form that does not permit direct association with any specific individual, such as your Android ID, CPN model, memory size, your phone IMEI number, phone model, rom, phone operator, location, install, uninstall, frequency of use, etc.
-We may collect and use non-personal information in the following circumstances. To have a better understanding in user’s behavior, solve problems in products and services, improve our products, services and advertising, we may collect non-personal information such as the data of install, frequency of use, country, equipment and channel. 
-If non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+We DO NOT collect or use non-personal information in the any circumstances.
+If non-personal information is combined with personal information, we treat the combined information as non-personal information for the purposes of this Privacy Policy.
 
 
 PROTECTION OF PERSONAL INFORMATION
 We take precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
-When you use some products, services, or post your comments, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features. OUR COMPANYWIDE COMMITMENT TO YOUR PRIVACY
-To make sure your personal information is secure; we communicate our privacy and security guidelines to all employees and strictly enforce privacy safeguards within the company.
-
+When you use some products or services, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features. 
 
 PRIVACY QUESTIONS
 If you have any questions or concerns about our Privacy Policy or data processing, please contact us.
-We may update Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+We may update Privacy Policy from time to time.
